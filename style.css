@@ -344,15 +344,21 @@ header {
 .social-list_link {
     padding: .5em;
 }
+ 
+/* Portfolio Items */
 
 .portfolio-item-individual {
-    padding: 5em;
     max-width: 1000px;
     margin: 0 auto;
+    margin-bottom: 80px;
 }
 
 .portfolio-item-individual p {
-    max-width: 600px;
+    max-width: 700px;
     margin-left: auto;
     margin-right: auto;
+}
+
+.screenshot {
+    margin-top: 3em;
 }
