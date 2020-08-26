@@ -362,3 +362,7 @@ header {
 .screenshot {
     margin-top: 3em;
 }
+ button {
+     background: var(--clr-accent);
+     color: var(--clr-dark);
+ }
